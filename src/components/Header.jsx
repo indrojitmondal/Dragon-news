@@ -10,7 +10,7 @@ const Header = () => {
 
             </div>
 
-            <h2 className='text-gray-400'>Journalism Without Fear or Favour </h2>
+            <h2 className='text-gray-400 '>Journalism Without Fear or Favour </h2>
 
             <p>{moment().format("dddd, MMMM Do YYYY")} </p>
         </div>
