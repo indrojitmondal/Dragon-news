@@ -9,3 +9,11 @@ Currently, two official plugins are available:
 
 # Live Site 
 <a href='https://dragon-news-by-indrojit.surge.sh/'>Visit the site </a>
+
+# Fundamental Concept 
+- React Router DOM
+- Moment.js
+- Marque
+- React Component 
+- React Router
+- React Nested Layout 
